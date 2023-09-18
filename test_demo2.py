@@ -29,6 +29,8 @@ def test_SecondCreditCard():
 
 def test_fixtureDemo(setup):
     print("i will execute steps in fixtureDemo method")
+    print("i will execute steps in fixtureDemo method1")
+    print("i will execute steps in fixtureDemo method2")
 
 
 

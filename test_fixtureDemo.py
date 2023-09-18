@@ -13,3 +13,9 @@ class TestExamples:
 
     def test_fixtureDemo3(self):
         print("i will execute steps in fixtureDemo3 method")
+
+    def test_fixtureDemo4(self):
+        print("i will execute steps in fixtureDemo4 method")
+
+    def test_fixtureDemo5(self):
+        print("i will execute steps in fixtureDemo5 method")
